@@ -26,6 +26,7 @@ namespace MVCDemo.Controllers
 
         public IActionResult Privacy()
         {
+            //Second Action Result
             return View();
         }
 
