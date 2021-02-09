@@ -15,6 +15,7 @@ namespace MVCDemo.Controllers
 
         public HomeController(ILogger<HomeController> logger)
         {
+            //logger
             _logger = logger;
         }
 
